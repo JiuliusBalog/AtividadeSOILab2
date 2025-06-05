@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SegundoGrauEquacao</string>
+    <string name="valorprimeiro">Insira o 1º Valor</string>
+    <string name="valorsegundo">Insira o 2º Valor</string>
+    <string name="valorterceiro">Insira o 3º Valor</string>
+    <string name="calculo">Calcular</string>
+    <string name="delta">Delta</string>
+    <string name="res1">X1</string>
+    <string name="res2">X2</string>
+</resources>
